@@ -1,0 +1,7 @@
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+build/
+run/
+.gradle/
+tests/e2e/.cache/
+bot2-driver.log
